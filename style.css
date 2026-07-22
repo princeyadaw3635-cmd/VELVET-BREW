@@ -145,3 +145,22 @@ padding:50px 20px;
 text-align:center;
 padding:50px 20px;
 }
+#franchise{
+text-align:center;
+padding:60px 20px;
+}
+
+#franchise input{
+width:80%;
+max-width:500px;
+padding:12px;
+margin:8px 0;
+border-radius:8px;
+border:1px solid #D4AF37;
+background:#1a1a1a;
+color:white;
+}
+
+#franchise button{
+margin-top:10px;
+}
